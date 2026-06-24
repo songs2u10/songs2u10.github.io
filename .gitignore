@@ -1,0 +1,11 @@
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+vendor/
+
+# 내부 문서 (발행 제외)
+keyword-research.md
+docs/
+sales-automation-class/
+.claude/
